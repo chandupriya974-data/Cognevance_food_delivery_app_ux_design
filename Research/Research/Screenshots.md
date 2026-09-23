@@ -13,6 +13,10 @@ Screenshot of the user research and identified pain points.
 Screenshot of the user journey from discovering food to
 tracking the order.
 
+### 3. User Journey Map
+Screenshot of the user journey from discovering food to 
+tracking the order.
+
 ### 4. Low-Fidelity Wireframes
 Screenshots of the low-fidelity Wireframes:
 
