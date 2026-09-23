@@ -31,21 +31,21 @@ button visibility, information clarity, and checkout process.
 - The checkout screen provided clear delivery and payment information.
 - Order confirmation and tracking information was clearly presented.
 
-  ## Issues Identified
+## Issues Identified
 
   - Some screens contain a lot of information and could be simplified.
   - Navigation labels could be more consistent.
   - Payment options could have clearer visual separation.
   - Order tracking could use stronger visual indicators for the current status.
  
-    ## Improvements Based on Testing
+## Improvements Based on Testing
 
     Based on the self-usability review, I focused on improving the clarity
     and consistency of the user flow. The prototype was reviewed to ensure
     that important actions, such as adding items to the cart, proceeding
     to checkout, and placing an order, were easy to identify.
 
-    ## Conclusion
+## Conclusion
 
     The self-usability test helped me review the complete food ordering
     experience from onboarding to order confirmation. The main user flow
