@@ -31,7 +31,7 @@ The project followed a user-centered UX design process:
 - Interactive Prototype
 - Usability Testing
 
-  ### 4. User Research
+### 4. User Research
 
   User research was conducted to understand common
   challenges faced by people when ordering food through
@@ -50,7 +50,7 @@ The project followed a user-centered UX design process:
     an easy cart and checkout process, multiple payment options,
     and clear order tracking.
 
-    ### 5. User Persona
+### 5. User Persona
 
     **Name:** Ananya Sree
     **Age:** 22
@@ -76,7 +76,7 @@ The project followed a user-centered UX design process:
       - Lengthy checkout
       - Unclear delivery status
      
-      ### 6. User Journey
+ ### 6. user Journey
 
       **Discover --> Select --> Customize --> Cart --> Payment --> Track order**
 
@@ -85,7 +85,7 @@ The project followed a user-centered UX design process:
       order, reviewing the cart, making payment, and tracking the order until
       delivery.
 
-      ### 7. Wireframes
+ ### 7. Wireframes
 
       Low-fidelity wireframes were created for:
 
@@ -99,7 +99,7 @@ The project followed a user-centered UX design process:
         The wireframes helped establish the layout, content hierarchy, and
         main user flow creating the final UI.
 
-        ### 8. High-Fidelity UI Design
+### 8. High-Fidelity UI Design
 
         The low-fidelity wireframes were transformed into
         high-fidelity mobile app screens using Figma.
@@ -117,7 +117,7 @@ The project followed a user-centered UX design process:
         The design focuses on providing a simple and convenient
         food-ordering experience.
 
-        ### 9. Prototype & Interactions
+### 9. Prototype & Interactions
 
         An interactive prototype was created in Figma
         to demonstrate the complete food-ordering flow.
@@ -132,7 +132,7 @@ The project followed a user-centered UX design process:
         as get started, Add to cart, Proceed to Checkout, and Place
         Order.
 
-        ### 10. Onboarding, Cart & Payment Flow
+### 10. Onboarding, Cart & Payment Flow
 
         The onboarding screen introduces the app and guides
         users to the home screen.
@@ -148,7 +148,7 @@ The project followed a user-centered UX design process:
         7. View order confirmation
         8. Track the delivery status
        
-        ### 11. Usability Testing
+### 11. Usability Testing
 
         A self-usability test was conducted to review the complete
         food-ordering experience.
@@ -161,7 +161,7 @@ The project followed a user-centered UX design process:
         The testing helped identify areas where navigation and visual
         clarity could be improved.
 
-        ### 12. Tools Used
+ ### 12. Tools Used
 
         - Figma
         - UI/UX Design
@@ -171,7 +171,7 @@ The project followed a user-centered UX design process:
         - Microsoft Word
         - GitHub
        
-        ### 13. Final Outcome
+### 13. Final Outcome
 
         The final result is a complete food delivery mobile app
         UX design covering the user journey from onboarding to
@@ -188,7 +188,7 @@ The project followed a user-centered UX design process:
         - Usability Testing
         - Project documentation
        
-        ### 14. Conclusion
+### 14. Conclusion
 
         This project provided an opportunity to apply UX design
         principles to a complete food delivery app experience. The
@@ -198,7 +198,7 @@ The project followed a user-centered UX design process:
                    The final design provides a clear and user-friendly flow
         for oredring and tracking food.
 
-        ### 15. Project Link
+ ### 15. Project Link
 
         **Figma Prototype:**
         https://www.figma.com/design/NBM1mgJIVDyhzVALzzET6B/Food-Delivery-Mobile-App-UX-Design?node-id=4-6&t=KTbGvXFQFNNgUFP6-1
