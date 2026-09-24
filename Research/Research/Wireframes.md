@@ -49,7 +49,7 @@ about the selected restaurant and its food items.
 The cart screen allows users to review their
 selected food items and order total.
 
-*Main elements:*
+**Main elements:**
 - Selected food items
 - Quantity controls
 - Subtotal
@@ -62,7 +62,7 @@ selected food items and order total.
 The checkout screen allows users to confirm
 their delivery address and select a payment method.
 
-*Main elements:*
+**Main elements:**
 - Delivery address
 - Payment methods
 - Order summary
@@ -74,7 +74,7 @@ their delivery address and select a payment method.
 The order confirmation screen confirms the order
 and provides delivery tracking information.
 
-*Main elements:*
+**Main elements:**
 - Order confirmation
 - Order number
 - Ordered items
