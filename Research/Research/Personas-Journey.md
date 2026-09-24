@@ -5,8 +5,11 @@
 ## User Persona
 
 **Name:** Ananya Sree
+
 **Age:** 22
+
 **Occupation:** College Student
+
 **Location:** Bengaluru, India
 
 ### Bio
