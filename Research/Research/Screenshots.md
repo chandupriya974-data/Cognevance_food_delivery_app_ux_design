@@ -39,6 +39,8 @@ Screenshots of the final mobile UI Screens:
 
 <img width="394" height="853" alt="01 - Onboarding - Hi-Fi" src="https://github.com/user-attachments/assets/b0c00d3b-0d31-4df7-aa80-0a01be47cd84" />
 
+<img width="395" height="853" alt="02-Home - Hi-Fi" src="https://github.com/user-attachments/assets/7f4c0e79-73c6-498a-bb0a-a8b8130ed224" />
+
 ### 6. Interactive Prototype
 Screenshot showing the interactive prototype
 and connected user flow.
