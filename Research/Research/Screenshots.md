@@ -47,7 +47,7 @@ Screenshots of the final mobile UI Screens:
 
 <img width="394" height="853" alt="Checkout   Payment - Hi-Fi" src="https://github.com/user-attachments/assets/e1999df7-c8a7-4a86-9fc2-113521004cc2" />
 
-
+<img width="393" height="853" alt="Order Confirmation   Tracking - Hi-Fi" src="https://github.com/user-attachments/assets/c04bfd1f-2ccc-4dc6-8c3f-9bf4f35139cd" />
 
 ### 6. Interactive Prototype
 Screenshot showing the interactive prototype
