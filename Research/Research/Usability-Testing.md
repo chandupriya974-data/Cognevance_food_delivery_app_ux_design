@@ -20,6 +20,31 @@ of the food delivery mobile app prototype.
 flow myself as a first-time user and reviewed the navigation, 
 button visibility, information clarity, and checkout process.
 
+### User Feedback
+
+**Participant:** 1 participant
+
+**Task Completed:** Order Chicken Biryani from Spice Garden and complete checkout.
+
+#### Feedback
+
+1. **Ease of Use:** The participant found the app very easy to use. The flow from onboarding to order placement was smooth.
+
+2. **Confusing Steps:** No major confusion was reported. The participant suggested adding a small “View Cart” pop-up after adding an item.
+
+3. **Finding and Adding Food:** Chicken Biryani was easy to find, and the Add button worked in one tap.
+
+4. **Checkout and Payment:** The checkout section was clear. Item total, delivery fee, total amount, and payment options were easy to understand.
+
+5. **Navigation:** Important options such as cart, address, and payment were easy to find.
+
+6. **Suggested Improvements:**
+   
+ - Add categories inside the restaurant menu, such as Biryani and Starters.
+ - Show an item-added confirmation.
+ - Make the “Place Order” button more highlighted.
+ - Add estimated delivery time on the checkout screen.
+
 ## Test Observations
 
 - The onboarding purpose was clear.
