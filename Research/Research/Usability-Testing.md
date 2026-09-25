@@ -20,6 +20,17 @@ of the food delivery mobile app prototype.
 flow myself as a first-time user and reviewed the navigation, 
 button visibility, information clarity, and checkout process.
 
+## Test Observations
+
+- The onboarding purpose was clear.
+- The Get Started button was easy to identify.
+- The home screen made it easy to search and find food or restaurants.
+- Restaurant and food information was understandable.
+- Add to cart and checkout actions where easy to identify.
+- The cart clearly displayed selected items and the total amount.
+- The checkout screen provided clear delivery and payment information.
+- Order confirmation and tracking information was clearly presented.
+
 ### User Feedback
 
 **Participant:** 1 participant
@@ -44,17 +55,6 @@ button visibility, information clarity, and checkout process.
  - Show an item-added confirmation.
  - Make the “Place Order” button more highlighted.
  - Add estimated delivery time on the checkout screen.
-
-## Test Observations
-
-- The onboarding purpose was clear.
-- The Get Started button was easy to identify.
-- The home screen made it easy to search and find food or restaurants.
-- Restaurant and food information was understandable.
-- Add to cart and checkout actions where easy to identify.
-- The cart clearly displayed selected items and the total amount.
-- The checkout screen provided clear delivery and payment information.
-- Order confirmation and tracking information was clearly presented.
 
 ## Issues Identified
 
