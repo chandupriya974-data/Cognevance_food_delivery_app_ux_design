@@ -100,4 +100,4 @@ https://www.figma.com/design/NBM1mgJIVDyhzVALzzET6B/Food-Delivery-Mobile-App-UX-
 ### Author
 
 *Chandu Priya*  
-B.Tech | Data Analyst | Power BI Developer
+B.Tech | Data Analyst | Power BI Developer | UI/UX Designer
