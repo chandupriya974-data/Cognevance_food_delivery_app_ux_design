@@ -1,3 +1,4 @@
+<img width="394" height="853" alt="01 - Onboarding - Hi-Fi" src="https://github.com/user-attachments/assets/689d568a-054a-49de-920b-0eadeaab7d84" />
 # Screenshots
 
 ## Food Delivery Mobile App UX Design
@@ -8,6 +9,8 @@ App UX Design project.
 
 ### 1. User Research
 Screenshot of the user research and identified pain points.
+
+<img width="394" height="853" alt="01 - Onboarding - Hi-Fi" src="https://github.com/user-attachments/assets/b0c00d3b-0d31-4df7-aa80-0a01be47cd84" />
 
 ### 2. User Persona
 Screenshot of the user journey from discovering food to
