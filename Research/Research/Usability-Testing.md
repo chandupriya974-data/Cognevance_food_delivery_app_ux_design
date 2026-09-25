@@ -10,7 +10,7 @@ of the food delivery mobile app prototype.
 
 ## Testing Method
 
-**Testing Type:** Self-Usability Testing
+**Testing Type:** Self-Usability Testing + Participant Usability Testing
 
 **Participant:** Designer (self)
  
