@@ -43,6 +43,9 @@ Screenshots of the final mobile UI Screens:
 
 <img width="394" height="853" alt="Restaurant-Hi-Fi" src="https://github.com/user-attachments/assets/cf4b3d0a-7f49-4bc4-b06c-a5136500ef20" />
 
+<img width="393" height="853" alt="Cart-Hi-Fi" src="https://github.com/user-attachments/assets/72a40246-f464-453d-b75f-3548a54e6cf6" />
+
+
 ### 6. Interactive Prototype
 Screenshot showing the interactive prototype
 and connected user flow.
